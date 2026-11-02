@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cb9af14fb11074c598c5439dd894f0a1
+timeCreated: 1530468621
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120801
+  packageName: Insecticide Spray
+  packageVersion: 1.0
+  assetPath: Assets/Wonky/InsecticideSpray/Spray_skinnedmesh.prefab
+  uploadId: 253705

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fe236855cc5bc44a09778d22c46e9cc6
+timeCreated: 1530468618
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120801
+  packageName: Insecticide Spray
+  packageVersion: 1.0
+  assetPath: Assets/Wonky/InsecticideSpray/Spray_insect.prefab
+  uploadId: 253705

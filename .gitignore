@@ -1,0 +1,52 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+sysinfo.txt
+*.stackdump
+
+# Burst / IL2CPP build leftovers
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Built players
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+
+# Visual Studio / Rider / IDE
+.vs/
+.vsconfig
+.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.suo
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-local scratch & AI tool configs
+.utmp/
+.claude/
+.mcp.json
+backups/
+old scripts/
+*.py
+Assets/_Recovery/
+Assets/_Recovery.meta

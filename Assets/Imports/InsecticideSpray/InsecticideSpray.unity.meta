@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bbafb8b61c6ce49cc935566d72bea03d
+timeCreated: 1528925820
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 120801
+  packageName: Insecticide Spray
+  packageVersion: 1.0
+  assetPath: Assets/Wonky/InsecticideSpray/InsecticideSpray.unity
+  uploadId: 253705
